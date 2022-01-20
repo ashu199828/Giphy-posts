@@ -1,0 +1,94 @@
+#welcomeNote h1 {
+  margin-left: 100px;
+  font-weight: bold;
+}
+
+#nav {
+  margin-bottom: 10px;
+}
+
+body {
+  background: rgb(209, 235, 220);
+}
+
+#textMsg {
+  margin-top: 20px;
+  margin-left: 120px;
+  margin-right: 20px;
+  height: 30px;
+  width: 600px;
+  padding-left: 5px;
+  border-radius: 10px;
+}
+#post {
+  background: black;
+  color: white;
+  border-radius: 10px;
+}
+#search {
+  background: black;
+  color: white;
+  border-radius: 10px;
+}
+
+#fBox button {
+  width: 100px;
+}
+#emoji {
+  display: flex;
+  flex-direction: column;
+}
+#emoji img {
+  margin-left: 140px;
+  margin-top: 10px;
+  width: 250px;
+  height: 100px;
+}
+#fix {
+  position: absolute;
+  top: 280px;
+}
+#input {
+  border-radius: 5px;
+  margin-bottom: 5px;
+  margin-top: 30px;
+  margin-left: 130px;
+}
+#boxImg {
+  width: 350px;
+  height: 200px;
+}
+#output {
+  position: absolute;
+  top: 350px;
+}
+#output img {
+  width: 155px;
+  height: 100px;
+  margin: 5px 5px;
+  cursor: pointer;
+}
+
+#postOutput {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 580px;
+  left: 10px;
+}
+
+#postOutput img {
+  width: 350px;
+  height: 200px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+#postOutput h1 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: bold;
+}
+#hr {
+  position: absolute;
+  top: 560px;
+  width: 1519px;
+}
